@@ -27,3 +27,5 @@ This project represents a comprehensive end-to-end DevOps process for a food ord
 - **ArgoCD:** Deployed on the EKS cluster to manage continuous deployments.
 
 This DevOps process ensures a seamless flow of code from development to production, enabling fast and reliable releases of new application versions.
+
+![image](https://github.com/ndinevski/GitOps-Food-App/assets/61565298/d79663bc-0266-4063-9ab2-5a2d0d54713c)
